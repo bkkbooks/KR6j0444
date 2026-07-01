@@ -1,0 +1,168 @@
+canonical_identifier: bkk:krp/KR6j0444/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0444/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說妙吉祥最勝根本大教經
+  identifiers:
+    krp: KR6j0444
+    cbeta: T21n1217
+    cbeta_old_id: T21n1217
+    authorityid: CA0002244
+    json_key: T1217
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1217.xml
+    old_id: T21n1217
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0444_000-T.yaml, hash: 'sha256:425c6756d40fcad14bcf88e3cb1e0418d4f21b108afb3f6672b5a46f539cc00e'}
+  - {seq: 1, filename: KR6j0444_001-T.yaml, hash: 'sha256:779741a4d5dedcb0a7cf365cea879ec9eaeab89e2577b5717f59955061cbdb24'}
+  - {seq: 2, filename: KR6j0444_002-T.yaml, hash: 'sha256:16dfaca88b0500f88d69357a6b7497388ff028229108e7dece1f14c522759daf'}
+  - {seq: 3, filename: KR6j0444_003-T.yaml, hash: 'sha256:f5ed87c50421e091f631e16d7eee98ac35ddcf386a2d08a0ef08d4ce5d81a3d1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0444_000-T.markers.yaml, hash: 'sha256:1a560001fca6d1261ebc1ea315132d9116248b2052c0f887b7568e248ca9d92f'}
+  - {seq: 1, role: markers, filename: assets/KR6j0444_001-T.markers.yaml, hash: 'sha256:deaa7bd5ed90d318759d2bbc6c25ef60dc70f0ada4bfa3f9ae62424f2ee326a2'}
+  - {seq: 2, role: markers, filename: assets/KR6j0444_002-T.markers.yaml, hash: 'sha256:529efa77d69d75dac45a2a6bae0063a61b17f65efd3635f46bd1194b65aa5285'}
+  - {seq: 3, role: markers, filename: assets/KR6j0444_003-T.markers.yaml, hash: 'sha256:71e5b98dc1e24accc6201cf5d0107880125b5f3076fa06d4b0cd4ea4e8028cbc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0444_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4831
+  label: '佛說妙吉祥最勝根本大教經卷
+
+    上'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0444_T_001-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 1 焰鬘得迦忿怒明王成就儀軌分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0444_T_001-mulu-2
+    span:
+    - body
+    - 479
+    - 479
+  label: 2 焰鬘得迦必隸睹得羯吒曼拏羅成就儀軌分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0444_T_001-mulu-3
+    span:
+    - body
+    - 1779
+    - 1779
+  label: 3 忿怒明王必隸睹得羯吒曼拏羅大明成就儀軌分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0444_T_001-mulu-4
+    span:
+    - body
+    - 2889
+    - 2889
+  label: 4 忿怒明王必隸睹得羯吒寶杖印曼拏羅祕密供養儀軌分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0444_T_001-mulu-5
+    span:
+    - body
+    - 3856
+    - 3856
+  label: 5 忿怒明王必隸多曩毘寶杖印曼拏羅祕密供養儀軌分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0444_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5853
+  label: '佛說妙吉祥最勝根本大教經卷
+
+    中'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0444_T_002-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 6 吠多梨印成就句召儀軌分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0444_T_002-mulu-2
+    span:
+    - body
+    - 4299
+    - 4299
+  label: 7 焰鬘得迦吠多梨印修行儀軌分
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0444_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 5867
+  label: '佛說妙吉祥最勝根本大教經卷
+
+    下'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0444_T_003-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 8 焰鬘得迦明王本法儀軌分
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0444_T_003-mulu-2
+    span:
+    - body
+    - 3592
+    - 3592
+  label: 9 焰鬘得迦明王最上儀軌分
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0444_T_003-mulu-3
+    span:
+    - body
+    - 5383
+    - 5383
+  label: 10 妙吉祥化身焰鬘得迦明王儀軌略出分
+  type: mulu
+  level: 1
+hash: sha256:93f35b0bcc900e206d23108e5e74c5841ffc6b7ce7499f7533d9cc7b513ca85b
