@@ -25,13 +25,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0444_000.yaml, hash: 'sha256:425c6756d40fcad14bcf88e3cb1e0418d4f21b108afb3f6672b5a46f539cc00e'}
-  - {seq: 1, filename: KR6j0444_001.yaml, hash: 'sha256:883f932dff50705b7ac9816e6c1537eff41521c9a62f8fe93118a00470bcaceb'}
-  - {seq: 2, filename: KR6j0444_002.yaml, hash: 'sha256:4868abf588f13cd1dc0ad153635c0b56929a4219384ce3760dae3f993333cf07'}
-  - {seq: 3, filename: KR6j0444_003.yaml, hash: 'sha256:99de7ef4fbcae73d676b20144bc5ef6fcf6645c6e053850498fd44306386d586'}
+  - {seq: 1, filename: KR6j0444_001.yaml, hash: 'sha256:779741a4d5dedcb0a7cf365cea879ec9eaeab89e2577b5717f59955061cbdb24'}
+  - {seq: 2, filename: KR6j0444_002.yaml, hash: 'sha256:16dfaca88b0500f88d69357a6b7497388ff028229108e7dece1f14c522759daf'}
+  - {seq: 3, filename: KR6j0444_003.yaml, hash: 'sha256:f5ed87c50421e091f631e16d7eee98ac35ddcf386a2d08a0ef08d4ce5d81a3d1'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0444_001.markers.yaml, hash: 'sha256:b2b8a94f6cb1500c90a67158b9d56bb4fc2c2adf6c3945bce1435577b7e49cb2'}
-  - {seq: 2, role: markers, filename: assets/KR6j0444_002.markers.yaml, hash: 'sha256:9c8fe2afa7582fcbbf6c38e0feb5f712cc66af062b9e51d1b4e1b364e69d8081'}
-  - {seq: 3, role: markers, filename: assets/KR6j0444_003.markers.yaml, hash: 'sha256:bba76129ccf8262b608d88b2ad75378b0a5187fdbfc297816dda216c35375e80'}
+  - {seq: 0, role: markers, filename: assets/KR6j0444_000.markers.yaml, hash: 'sha256:5aa42c547b1890cfcdcf4088cee924ad28c0dcf03c74e4444143a7dd07212e21'}
+  - {seq: 1, role: markers, filename: assets/KR6j0444_001.markers.yaml, hash: 'sha256:6eb4dc4fd6fa383a9841afeb66ee7590075076d5c50b6100c767cca37959f05d'}
+  - {seq: 2, role: markers, filename: assets/KR6j0444_002.markers.yaml, hash: 'sha256:ed32ba0a757160a93d7f6c76053f40ca16a50a68af0a6784239e70056212aedb'}
+  - {seq: 3, role: markers, filename: assets/KR6j0444_003.markers.yaml, hash: 'sha256:ab251b7d66966df24c292e4930adee833c3f422d7ab674d869457b160f6f5c0c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -169,7 +170,4 @@ table_of_contents:
   label: 10 妙吉祥化身焰鬘得迦明王儀軌略出分
   type: mulu
   level: 1
-hash: sha256:50b81414c4d5bb0aada4c26c9cd868e727eb864454efe8e5602a0b627335d93f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:90b49132829e7e2b5b1db2505c52ba6b800f1d8827ed050d8848410f41707cfb
