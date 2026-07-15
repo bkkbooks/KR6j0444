@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0444/v1
 canonical_location: https://kanripo.org/bkk/KR6j0444/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說妙吉祥最勝根本大教經
   identifiers:
@@ -25,14 +25,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0444_000.yaml, hash: 'sha256:425c6756d40fcad14bcf88e3cb1e0418d4f21b108afb3f6672b5a46f539cc00e'}
-  - {seq: 1, filename: KR6j0444_001.yaml, hash: 'sha256:779741a4d5dedcb0a7cf365cea879ec9eaeab89e2577b5717f59955061cbdb24'}
-  - {seq: 2, filename: KR6j0444_002.yaml, hash: 'sha256:16dfaca88b0500f88d69357a6b7497388ff028229108e7dece1f14c522759daf'}
-  - {seq: 3, filename: KR6j0444_003.yaml, hash: 'sha256:f5ed87c50421e091f631e16d7eee98ac35ddcf386a2d08a0ef08d4ce5d81a3d1'}
+  - {seq: 1, filename: KR6j0444_001.yaml, hash: 'sha256:948f2c1c6e52328896182df58a4ab9738e98a705aa9ca6b8993c45938f748528'}
+  - {seq: 2, filename: KR6j0444_002.yaml, hash: 'sha256:0e0c345111d5de5e52de9b90b937fcaf9273e019465e1a09d7294742ba2a8b7f'}
+  - {seq: 3, filename: KR6j0444_003.yaml, hash: 'sha256:df3bb75bf7a345b2aebcb3e154b481e03f9e4aacd9113cafbaffc6238e788757'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0444_000.markers.yaml, hash: 'sha256:5aa42c547b1890cfcdcf4088cee924ad28c0dcf03c74e4444143a7dd07212e21'}
-  - {seq: 1, role: markers, filename: assets/KR6j0444_001.markers.yaml, hash: 'sha256:6eb4dc4fd6fa383a9841afeb66ee7590075076d5c50b6100c767cca37959f05d'}
-  - {seq: 2, role: markers, filename: assets/KR6j0444_002.markers.yaml, hash: 'sha256:ed32ba0a757160a93d7f6c76053f40ca16a50a68af0a6784239e70056212aedb'}
-  - {seq: 3, role: markers, filename: assets/KR6j0444_003.markers.yaml, hash: 'sha256:ab251b7d66966df24c292e4930adee833c3f422d7ab674d869457b160f6f5c0c'}
+  - {seq: 1, role: markers, filename: assets/KR6j0444_001.markers.yaml, hash: 'sha256:6088b5b6ec848049cc9feb1c9fd895eb22f319798724a51ce85d4631906f1a82'}
+  - {seq: 2, role: markers, filename: assets/KR6j0444_002.markers.yaml, hash: 'sha256:4ff554b5b68ad81126d0ca321fc1e3cf42c92d1495ddbb971c4c6ee8b36d43a8'}
+  - {seq: 3, role: markers, filename: assets/KR6j0444_003.markers.yaml, hash: 'sha256:860f75bf8f18e6577c21ada90ed992c35fe44c8202e1e4e728c4f2d5cc73c263'}
 table_of_contents:
 - ref:
     seq: 1
@@ -170,4 +170,7 @@ table_of_contents:
   label: 10 妙吉祥化身焰鬘得迦明王儀軌略出分
   type: mulu
   level: 1
-hash: sha256:90b49132829e7e2b5b1db2505c52ba6b800f1d8827ed050d8848410f41707cfb
+hash: sha256:09f5f039d3ac685df351e7186ace6568f13ba6d09907d18d283432bfa85b330b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
